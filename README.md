@@ -28,16 +28,15 @@ En esta etapa realizamos investigacion sobre cómo hacer un presupuesto, de que 
 
 Ivon es una estudiante activa de Laboratoria, tiene 30 años y es mamá de Samantha de 6 años. Actualmente vive de los ahorros obtenidos durante su periodo laboral y Samantha cuenta con pension alimenticia. El sueño de Ivon es lograr una estabilidad economica que le permita cumplir sus metas a corto, mediano y largo plazo. 
 
-Sus motivaciones son darle a su hija una buena educación, viajar y vacacionar por lo menos una vez al año y comprar una casa.
+Sus motivaciones son darle a su hija una buena educación, viajar por lo menos una vez al año y comprar una casa.
 
-Ivon no tiene muy claro si sus ahorros seran suficientes para estos 5 meses que estara desempleada y de que manera puede administralos para lograrlo y aun que ha tratado de hacer un presupuesto no cuenta con una herramienta que le ayude a entender como realizarlo de forma exitosa, también le gustaria saber de que forma puede disminuir gastos y ahorrar para algun imprevisto o emergencia. 
+Ivon no tiene muy claro si sus ahorros serán suficientes para estos 5 meses que estará desempleada y de qué manera puede administralos para lograrlo y aunque ha tratado de hacer un presupuesto no cuenta con una herramienta que le ayude a entender como realizarlo de forma exitosa, también le gustaría saber de que forma puede disminuir gastos y ahorrar para algún imprevisto o emergencia. 
 
 ## Historias de usuario
 
-1. Planificar un presupuesto diario e ir ingresando gastos generados para saber si se cumple y cuanto ahorré
-2. Planificar gastos de manera mensual para sobrellevar Bootcamp
+1. Poder planificar un presupuesto diario e ir ingresando los gastos generados para saber si lo cumplo y cuanto voy ahorrando
+2. Poder planificar gastos de manera mensual para sobrellevar Bootcamp
 3. Planificar metas/objetivos a corto, mediano y largo plazo para su seguimiento y cumplimiento.
-4. Quitar habitos que afecten la estabilidad economica que se quiere lograr o creando nuevos que la beneficien, dando un seguimiento diario por un periodo de 21 dias.
 5. Tener a la mano herramientas que ayuden a ampliar los metodos de ahorro y a conocer mas sobre conceptos necesarios para lograr una buena salud financiera. 
 
 ## Ideación
