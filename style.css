@@ -1,0 +1,118 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: sans-serif;
+    font-family: 'Rambla', sans-serif;
+}
+
+/*HEADER*/
+
+body header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 10%;
+    box-shadow: 0 0 7px 0 rgba(0, 0, 0, .7);
+}
+
+body header .logo{
+    width: 50%;
+    height: 100%;
+    margin: 5% 0 2% 5%;
+}
+
+body header .logo img{
+    width: 70%;
+    height: 100%;
+}
+body header .menu{
+    display:none;
+}
+body header .icon-menu{
+    width: 10%;
+    height: 100%;
+    margin: 0 5% 0 0;
+    font-size: 2rem;
+}
+body header .profile-picture{
+    width: 15%;
+    height: 80%;
+}
+body header .profile-picture img{
+    width: 100%;
+    height: 100%;
+}
+/*HOME*/
+
+body .home{
+    width: 100%;
+    height: 90vh;
+    display:grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 20% 65% 15%;
+    grid-template-areas: "today-budget today-expenses"
+                         "daily daily"
+                         "total-savings total-savings";
+}
+/*TOP BUTTONS*/
+
+body .home .today-budget{
+    
+    grid-area: today-budget;
+    border-radius: 10px;
+    margin: 7% 2.5% 3% 5%;
+    background-color: #2e2e2c;
+    color:white;
+    padding: 5%;
+    font-size: 1rem;
+    text-align: center;
+}
+body .home .today-expenses{
+    grid-area: today-expenses;
+    border-radius: 10px;
+    margin: 7% 5% 3% 2.5%;
+    background-color: #2e2e2c;
+    color:white;
+    padding: 5%;
+    font-size: 1rem;
+    text-align: center;
+}
+body .home .daily{
+    grid-area: daily;
+    border-radius: 10px;
+    margin: 3%;
+    background-color: #2e2e2c;
+    color:white;
+    padding: 5%;
+    font-size: 1rem;
+    text-align: center;
+}
+body .home .total-savings{
+    
+    grid-area: total-savings;
+    border-radius: 10px;
+    margin: 3%;
+    background-color: #2e2e2c;
+    color:white;
+}
+body .home .daily{
+    display:grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 15% 21% 21% 21% auto;
+    grid-template-areas: "";
+}
+body .home .daily p{
+    font-size: 1.3rem;
+    margin-bottom: 2%;
+}
+
+body .home .daily a{
+    cursor: pointer;
+}
+body .home .daily a i{
+    font-size: 2rem;
+    
+}
+
+
