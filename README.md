@@ -84,7 +84,7 @@ Durante el proceso de ideación, utilizamos diferentes herramientas para obtener
 
 ##Después de recibir feedback, deducimos las funciones de un modo más simplificado. Lo que nos permitió realizar el prototipo de alta fidelidad.
 
-<img src= "prototipo.PNG">
+<img src= "./Imagenes/prototipo.PNG">
 
 ##Liga del prototipo (Figma)
 
