@@ -68,6 +68,20 @@ body .home .today-budget{
     font-size: 1rem;
     text-align: center;
 }
+
+body .home .today-budget .input-one{
+    margin: 5%;
+    height: 2rem;
+    border-radius: 5px;
+}
+body .home .today-expenses .result-today-expenses{
+    background: white;
+    margin: 5%;
+    height: 2rem;
+    border-radius: 5px;
+    color: black;
+    text-align: center;
+}
 body .home .today-expenses{
     grid-area: today-expenses;
     border-radius: 10px;
@@ -88,14 +102,7 @@ body .home .daily{
     font-size: 1rem;
     text-align: center;
 }
-body .home .total-savings{
-    
-    grid-area: total-savings;
-    border-radius: 10px;
-    margin: 3%;
-    background-color: #2e2e2c;
-    color:white;
-}
+
 body .home .daily{
     display:grid;
     grid-template-columns: 50% 50%;
@@ -113,6 +120,66 @@ body .home .daily a{
 body .home .daily a i{
     font-size: 2rem;
     
+}
+body .home .total-savings{
+    grid-area: total-savings;
+    border-radius: 10px;
+    margin: 3%;
+    background-color: #2e2e2c;
+    color:white;
+    padding: 5%;
+    font-size: 1rem;
+    text-align: left;
+}
+body .home .total-savings p{
+    display: inline;
+    margin:0 10%;
+}
+body .home .total-savings .result-today-savings{
+    width: 2rem;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    padding: 2% 7%;
+    font-size: 1rem;
+    text-align: left;
+}
+
+
+/*OBJECTIVES*/
+
+body .Objectives{
+    width: 100%;
+    height: 90vh;
+    display:grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 10% 30% 30% 30%;
+    grid-template-areas: "title-Objectives title-Objectives"
+                         "items items"
+                         "items items"
+                         "items items";
+}
+
+body .Objectives .title-Objectives{
+    grid-area: title-Objectives;
+    border-radius: 10px;
+    margin: 3%;
+    background-color: #2e2e2c;
+    color:white;
+    padding: 5%;
+    font-size: 1rem;
+    text-align: center;
+    /*display: block;*/
+}
+body .Objectives .items{
+    grid-area: items;
+    background-color: #2e2e2c;
+    color:white;
+    padding: 5%;
+    font-size: 1rem;
+    margin: 3%;
+    border-radius: 10px;
+    height: 80vh;
 }
 
 
