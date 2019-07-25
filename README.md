@@ -90,3 +90,45 @@ Durante el proceso de ideación, utilizamos diferentes herramientas para obtener
 
 https://www.figma.com/file/GRIlyXfhVdrMi5TLKb4GzA/Salud_financiera?node-id=0%3A1
 
+
+### Colaboradoras
+#Zelina Cardenas Cardenas
+-UX Research
+-Wareframing
+-Prototipado Figma
+-Investigacion JS
+#Blanca Ivon Garduño Crespo
+-UX Research
+-Wareframing
+-Logo
+-Creacion de repositorio GitHub
+-Maquetado HTML y CSS
+-Programación JS
+#Sofia Mejia Muro
+-Scrum master
+-UX Research
+-Wareframing
+-Prototipado Marvel
+-Maquetado HTML y CSS
+-Programación JS
+#Cassandra García Arellano
+-Ux Research
+-Modelo de negocio CANVAS
+-Wareframing
+-Presentación Drive
+#Adriana Rosas Figueroa
+-Ux Research
+-Wareframing
+-Modelo de negocio CANVAS
+-Prototipado Figma
+-Prototipado Marvel
+-Presentación Drive
+-Observación CSS
+
+
+
+
+
+
+
+
