@@ -18,13 +18,15 @@ Al recibir una oferta de trabajo, las estudiantes/egresadas no tienen quien les 
 
 ### Research
 
-En esta etapa realizamos investigacion sobre cómo hacer un presupuesto, de que manera ahorrar, conceptos importantes y cómo motivarnos para lograr una buena salud financiera. Planteamos las siguientes preguntas para posteriormente definir de qué manera podríamos solucionar esas necesidades con nuestro producto:
+En esta etapa realizamos investigacion sobre cómo hacer un presupuesto, de qué manera ahorrar, conceptos importantes y cómo motivarnos para lograr una buena salud financiera. Planteamos las siguientes preguntas para posteriormente definir de qué manera podríamos solucionar esas necesidades con nuestro producto:
 
 1. ¿Cual es el problema?
 2. ¿Como vamos a solucionarlo?
 3. Que funcionalidades debe tener nuestra applicacion web para lograrlo
 
-![reserch1]("20190724_182419.jpg")
+
+
+
 
 
 ### User persona
@@ -64,11 +66,26 @@ Durante el proceso de ideación utilizamos diferentes herramientas para obtener 
   - Blog
   - Interfaz Desktop y Mobile
  
+##Definiendo las funciones principales a partir de las historias de usuario
+
+<img src= "20190724_182430.jpg">
+<img src= "20190724_182419.jpg">
+<img src= "20190724_182437.jpg">
+
+
  ## Prototipado
 
-El primer prototipo diseñado para este proyecto considera las caracteristicas establecidas anteriormente buscando tener una interaccion inttuitiva y muy completa.
+El primer prototipo diseñado para este proyecto considera las caracteristicas establecidas anteriormente buscando tener una interaccion intuitiva y muy completa.
 
 <img src= "UX/SketchInicio.jpg">
 <img src= "UX/SketchPress.jpg">
 
+
+##Después de recibir feedback, deducimos las funciones de un  modo más simplificado. Lo que nos permitió realizar el prototipo de alta fidelidad
+
+<img src= "prototipo.PNG">
+
+##Liga del prototipo (Figma)
+
+https://www.figma.com/file/O0vKEOEsMyF82PEoITTtpX/Mobile?node-id=5%3A12
 
