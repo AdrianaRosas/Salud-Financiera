@@ -69,9 +69,9 @@ Durante el proceso de ideación, utilizamos diferentes herramientas para obtener
  
 ##Definiendo las funciones principales a partir de las historias de usuario
 
-<img src= "20190724_182430.jpg">
-<img src= "20190724_182419.jpg">
-<img src= "20190724_182437.jpg">
+<img src= "./Imagenes/20190724_182430.jpg">
+<img src= "./Imagenes/20190724_182419.jpg">
+<img src= "./Imagenes/20190724_182437.jpg">
 
 
  ## Prototipado
