@@ -10,9 +10,9 @@ Al mismo tiempo, si bien existen muchas aplicaciones que ayudan a los usuarios a
 
 Crear un producto que resuelve el problema de muchas de las estudiantes del Bootcamp de Laboratoria.
 
-Las estudiantes de Laboratoria sueñan con lograr su estabilidad y/o independencia financiera. Se podrá lograr con el tiempo con su nuevo sueldo como programadora o diseñadora de experiencia.  Pero, más allá de esperar un buen salario, pocas se han sentado a planificar cómo lograr sus metas financieras y proyectar cuándo lograrlas. 
+Las estudiantes de Laboratoria sueñan con lograr su estabilidad y/o independencia financiera. Se podrá lograr con el tiempo, con su nuevo sueldo como programadora o diseñadora de experiencia.  Pero, más allá de esperar un buen salario, pocas se han sentado a planificar cómo lograr sus metas financieras y proyectar cuándo lograrlas. 
 
-Al recibir una oferta de trabajo, las estudiantes/egresadas no tienen quien les guíe a saber lo que les quedará libre del salario ofrecido, ni tienen un producto que les guíe a planificar cómo usar ese dinero “libre” para ir construyendo su ruta hacia la independencia financiera.
+Al recibir una oferta de trabajo, las estudiantes/egresadas no tienen quién les guíe a saber lo que les quedará libre del salario ofrecido, ni tienen un producto que les ayude a planificar cómo usar ese dinero “libre” para ir construyendo su ruta hacia la independencia financiera.
 
 ## Planeación del diseño
 
@@ -21,8 +21,8 @@ Al recibir una oferta de trabajo, las estudiantes/egresadas no tienen quien les 
 En esta etapa realizamos investigacion sobre cómo hacer un presupuesto, de qué manera ahorrar, conceptos importantes y cómo motivarnos para lograr una buena salud financiera. Planteamos las siguientes preguntas para posteriormente definir de qué manera podríamos solucionar esas necesidades con nuestro producto:
 
 1. ¿Cual es el problema?
-2. ¿Como vamos a solucionarlo?
-3. Que funcionalidades debe tener nuestra applicacion web para lograrlo
+2. ¿Cómo vamos a solucionarlo?
+3. Qué funcionalidades debe tener nuestra applicación web para lograrlo
 
 
 
@@ -39,14 +39,14 @@ Ivon no tiene muy claro si sus ahorros serán suficientes para estos 5 meses que
 
 ## Historias de usuario
 
-1. Poder planificar un presupuesto diario e ir ingresando los gastos generados para saber si lo cumplo y cuanto voy ahorrando
-2. Poder planificar gastos de manera mensual para sobrellevar Bootcamp
+1. Poder planificar un presupuesto diario e ir ingresando los gastos generados para saber si lo cumplo y cuánto voy ahorrando.
+2. Poder planificar gastos de manera mensual para sobrellevar Bootcamp.
 3. Planificar metas/objetivos a corto, mediano y largo plazo para su seguimiento y cumplimiento.
-5. Tener a la mano herramientas que ayuden a ampliar los metodos de ahorro y a conocer mas sobre conceptos necesarios para lograr una buena salud financiera. 
+5. Tener a la mano herramientas que ayuden a ampliar los métodos de ahorro y a conocer más sobre conceptos necesarios para lograr una buena salud financiera. 
 
 ## Ideación
 
-Durante el proceso de ideación utilizamos diferentes herramientas para obtener información e inspiración para poder diseñar nuestro prototipo de baja fidelidad.
+Durante el proceso de ideación, utilizamos diferentes herramientas para obtener información e inspiración para poder diseñar nuestro prototipo de baja fidelidad.
 
 
 
@@ -59,12 +59,13 @@ Durante el proceso de ideación utilizamos diferentes herramientas para obtener 
 -Brainstorming:
 
   - Logo
-  - Menu
+  - Menú
   - Pantallas
   - Calendario
   - Chatbox
   - Blog
-  - Interfaz Desktop y Mobile
+  - Interfaz, Desktop y Mobile
+
  
 ##Definiendo las funciones principales a partir de las historias de usuario
 
@@ -75,17 +76,17 @@ Durante el proceso de ideación utilizamos diferentes herramientas para obtener 
 
  ## Prototipado
 
-El primer prototipo diseñado para este proyecto considera las caracteristicas establecidas anteriormente buscando tener una interaccion intuitiva y muy completa.
+##El primer prototipo diseñado para este proyecto considera las características establecidas anteriormente buscando tener una interacción intuitiva y muy completa.
 
 <img src= "UX/SketchInicio.jpg">
 <img src= "UX/SketchPress.jpg">
 
 
-##Después de recibir feedback, deducimos las funciones de un  modo más simplificado. Lo que nos permitió realizar el prototipo de alta fidelidad
+##Después de recibir feedback, deducimos las funciones de un modo más simplificado. Lo que nos permitió realizar el prototipo de alta fidelidad.
 
 <img src= "prototipo.PNG">
 
 ##Liga del prototipo (Figma)
 
-https://www.figma.com/file/O0vKEOEsMyF82PEoITTtpX/Mobile?node-id=5%3A12
+https://www.figma.com/file/GRIlyXfhVdrMi5TLKb4GzA/Salud_financiera?node-id=0%3A1
 
