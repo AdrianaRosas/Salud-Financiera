@@ -24,6 +24,9 @@ En esta etapa realizamos investigacion sobre cómo hacer un presupuesto, de que 
 2. ¿Como vamos a solucionarlo?
 3. Que funcionalidades debe tener nuestra applicacion web para lograrlo
 
+![reserch1]("20190724_182419.jpg")
+
+
 ### User persona
 
 Ivon es una estudiante activa de Laboratoria, tiene 30 años y es mamá de Samantha de 6 años. Actualmente vive de los ahorros obtenidos durante su periodo laboral y Samantha cuenta con pension alimenticia. El sueño de Ivon es lograr una estabilidad economica que le permita cumplir sus metas a corto, mediano y largo plazo. 
@@ -42,6 +45,8 @@ Ivon no tiene muy claro si sus ahorros serán suficientes para estos 5 meses que
 ## Ideación
 
 Durante el proceso de ideación utilizamos diferentes herramientas para obtener información e inspiración para poder diseñar nuestro prototipo de baja fidelidad.
+
+
 
 -Benchmarking:
 
